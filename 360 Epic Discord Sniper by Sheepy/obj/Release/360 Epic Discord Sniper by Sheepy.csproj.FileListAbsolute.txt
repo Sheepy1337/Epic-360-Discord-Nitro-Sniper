@@ -1,0 +1,48 @@
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\360 Epic Discord Sniper by Sheepy.exe.config
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\360 Epic Discord Sniper by Sheepy.exe
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\360 Epic Discord Sniper by Sheepy.pdb
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Discord.Net.Commands.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Discord.Net.Core.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Discord.Net.Rest.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Discord.Net.Rpc.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Discord.Net.Webhook.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Discord.Net.WebSocket.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Microsoft.Win32.Primitives.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Newtonsoft.Json.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.AppContext.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Collections.Immutable.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Console.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Globalization.Calendars.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Interactive.Async.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.IO.Compression.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.IO.Compression.ZipFile.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.IO.FileSystem.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Net.Http.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Net.Sockets.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Discord.Net.Commands.xml
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Discord.Net.Core.xml
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Discord.Net.Rest.xml
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Discord.Net.Rpc.xml
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Discord.Net.Webhook.xml
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\Newtonsoft.Json.xml
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Collections.Immutable.xml
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\bin\Release\System.Interactive.Async.xml
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\obj\Release\360 Epic Discord Sniper by Sheepy.csproj.CoreCompileInputs.cache
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\obj\Release\360 Epic Discord Sniper by Sheepy.csproj.CopyComplete
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\obj\Release\360 Epic Discord Sniper by Sheepy.exe
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\obj\Release\360 Epic Discord Sniper by Sheepy.pdb
+C:\Users\Elias\source\repos\360 Epic Discord Sniper by Sheepy\360 Epic Discord Sniper by Sheepy\obj\Release\360 Epic Discord Sniper by Sheepy.csprojAssemblyReference.cache
