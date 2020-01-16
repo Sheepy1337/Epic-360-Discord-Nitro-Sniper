@@ -20,7 +20,7 @@ namespace _360_Epic_Discord_Sniper_by_Sheepy
         {
             string token = "";
             Console.Title = "360 Epic Discord Sniper by Sheepy";
-            if ((Properties.Settings.Default.Token == "null")|| (Properties.Settings.Default.Token == "")) 
+            if ((Properties.Settings.Default.Token == "null") || (Properties.Settings.Default.Token == "")) 
             {
                 Console.Write("Token: ");
                 token = Console.ReadLine();
@@ -51,9 +51,9 @@ namespace _360_Epic_Discord_Sniper_by_Sheepy
         private static Task _client_MessageReceived(SocketMessage arg)
         {
             
-            if (arg.Content.Contains("https://discord.gift/"))
+            if (arg.Content.Contains("https://discord.gift/") || arg.Content.Contains("http://discord.gift/") || arg.Content.Contains("discord.gift/"))
             {
-                string code = arg.Content.Split(new[] { @"https://discord.gift/" }, StringSplitOptions.None)[1].Split(' ')[0];
+                string code = arg.Content.Split(new[] { @"https://discord.gift/", @"http://discord.gift/", @"discord.gift/" }, StringSplitOptions.None)[1].Split(' ')[0];
 
                 CookieContainer cookieContainer = new CookieContainer();
 
